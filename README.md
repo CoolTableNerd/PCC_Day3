@@ -73,3 +73,11 @@ negative index returns an element a certain distance from the end of a list
 for loops can be used to slice through elements in a list
 for player in players[:3]: – Python doesn't loop through entire list of elements, but only the first 3.
     print(player)
+
+Tuples  - immutable list (can't be changed)
+• Tuples use () instead of []
+• elements inside a Tuple can be accessed like a list
+
+unchangeAbleList = (1,2,3,4)
+
+### Reflections
