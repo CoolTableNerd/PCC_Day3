@@ -1,8 +1,10 @@
 # Create a list of players
 players = ["LeBron", "Luka", "Austin", "Jaxon", "Jared"]
+ppg = [25.0, 28.3, 18.5, 12.1, 9.8]
 
 # Create a list of positions
 positions = ["SF", "PG", "SG", "PF", "SF"]
+
 
 # Extract the starting lineup (first 3 players) and bench players (last 2).
 starters  = players[:3]
